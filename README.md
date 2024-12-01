@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muyajid usually cal me Yazid
+- 👋 Hi, I’m @muyajid usually call me Yazid
 - 👀 I am interested in backend development and cyber security
 - 🌱 I’m currently learning backend development
 - 📝 I put my school assignments here
